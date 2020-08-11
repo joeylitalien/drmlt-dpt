@@ -126,9 +126,6 @@ python <PATH_TO_DPT__ROOT>/tools/stages_heatmap.py \
 
 ## Scenes
 
-
-
-**TODO: change for the right links**
 - [Torus](http://beltegeuse.s3-website-ap-northeast-1.amazonaws.com/research/2020_DRMLT/scenes/torus_dpt.zip)
 - [Chess](http://beltegeuse.s3-website-ap-northeast-1.amazonaws.com/research/2020_DRMLT/scenes/chess_dpt.zip)
 - [Veach Door](http://beltegeuse.s3-website-ap-northeast-1.amazonaws.com/research/2020_DRMLT/scenes/veach-door_dpt.zip)
