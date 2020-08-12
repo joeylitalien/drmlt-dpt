@@ -7,7 +7,7 @@ If you want to understand the algorithm by looking at the code, you should start
   - __Delayed Rejection MLT__
     - `src/integrators/delayed/delayed.*`
   - __H2MC__
-    - `src/integrators/h2mc.*
+    - `src/integrators/h2mc.*`
 
 In case of problems/questions/comments, do not hesitate to contact the authors directly.
  
